@@ -9,6 +9,6 @@ Alat otomatisasi untuk pengujian keamanan web (XSS & SQL Injection) yang dilengk
 
 ## 📥 Instalasi
 ```bash
-git clone https://github.com
+git clone https://github.com/snapwarex/Payload-Injection.git
 cd Payload-Injection
 python3 setup.py
