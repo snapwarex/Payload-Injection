@@ -1,7 +1,14 @@
-Judul: Payload Injection Tool.
+# 🚀 Payload Injection Tool
 
-Deskripsi: Tool untuk pengujian keamanan (security auditing).
+Alat otomatisasi untuk pengujian keamanan web (XSS & SQL Injection) yang dilengkapi dengan mesin **Turbo** untuk pemindaian massal yang cepat.
 
-Fitur: Otomasi injeksi XSS dan SQLi menggunakan database.txt.
+## 🛠️ Fitur Utama
+- **Manual Mode:** Uji payload satu per satu secara manual.
+- **Turbo Mode:** Menggunakan `turbo.py` untuk injeksi otomatis ribuan payload dari `database.txt` secara cepat.
+- **Comprehensive Database:** Kumpulan payload XSS dan SQLi yang sudah dikurasi.
 
-Disclaimer: "This tool is for educational purposes and authorized penetration testing only. The author is not responsible for any misuse."
+## 📥 Instalasi
+```bash
+git clone https://github.com
+cd Payload-Injection
+python3 setup.py
